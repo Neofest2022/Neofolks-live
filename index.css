@@ -148,3 +148,11 @@ p {
             -webkit-text-fill-color: transparent;
             -webkit-background-clip: text;
   }
+
+  span{
+    margin-top: 5%;
+  }
+
+  #header{
+    padding-top: 10%;
+  }
