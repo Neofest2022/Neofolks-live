@@ -149,6 +149,7 @@ p {
   }
 
   #hpnnow{
+    font-size: 60px;
     padding-bottom: 5%;
     background: linear-gradient(to bottom right, #FFE27D, #FFE27D, #64E3FF,
     #9192FF, #9192FF);
@@ -161,7 +162,7 @@ p {
   }
 
   #header{
-    padding-top: 30%;
+    padding-top: 15%;
   }
 
   #wallsioscript{
