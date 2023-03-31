@@ -44,9 +44,13 @@ body {
 }
 
 .container {
+    position: relative;
+    display: block;
     color: #333;
     margin: 0 auto;
     text-align: center;
+    padding-top: 45%;
+    width: 100%;
 }
 
 h1 {
@@ -137,12 +141,15 @@ p {
 
   hr{
     margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
     border: 5px solid white;
     margin-bottom: 2%;
     opacity: .5;
   }
 
   #hpnnow{
+    padding-bottom: 5%;
     background: linear-gradient(to bottom right, #FFE27D, #FFE27D, #64E3FF,
     #9192FF, #9192FF);
             -webkit-text-fill-color: transparent;
@@ -155,4 +162,8 @@ p {
 
   #header{
     padding-top: 15%;
+  }
+
+  #wallsioscript{
+    margin-top: 10%;
   }
