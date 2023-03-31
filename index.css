@@ -45,11 +45,12 @@ body {
 
 .container {
     position: relative;
+    z-index: 9999;
     display: block;
     color: #333;
     margin: 0 auto;
     text-align: center;
-    padding-top: 45%;
+    /* padding-top: 45%; */
     width: 100%;
 }
 
@@ -162,7 +163,7 @@ p {
   }
 
   #header{
-    padding-top: 15%;
+    padding-top: 0%;
   }
 
   #wallsioscript{
